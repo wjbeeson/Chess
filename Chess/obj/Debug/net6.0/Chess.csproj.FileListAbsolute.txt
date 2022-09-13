@@ -1,0 +1,16 @@
+C:\Users\wjbee\source\repos\Chess\bin\Debug\net6.0\Chess.exe
+C:\Users\wjbee\source\repos\Chess\bin\Debug\net6.0\Chess.deps.json
+C:\Users\wjbee\source\repos\Chess\bin\Debug\net6.0\Chess.runtimeconfig.json
+C:\Users\wjbee\source\repos\Chess\bin\Debug\net6.0\Chess.dll
+C:\Users\wjbee\source\repos\Chess\bin\Debug\net6.0\Chess.pdb
+C:\Users\wjbee\source\repos\Chess\obj\Debug\net6.0\Chess.csproj.AssemblyReference.cache
+C:\Users\wjbee\source\repos\Chess\obj\Debug\net6.0\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjbee\source\repos\Chess\obj\Debug\net6.0\Chess.AssemblyInfoInputs.cache
+C:\Users\wjbee\source\repos\Chess\obj\Debug\net6.0\Chess.AssemblyInfo.cs
+C:\Users\wjbee\source\repos\Chess\obj\Debug\net6.0\Chess.csproj.CoreCompileInputs.cache
+C:\Users\wjbee\source\repos\Chess\obj\Debug\net6.0\Chess.dll
+C:\Users\wjbee\source\repos\Chess\obj\Debug\net6.0\refint\Chess.dll
+C:\Users\wjbee\source\repos\Chess\obj\Debug\net6.0\Chess.pdb
+C:\Users\wjbee\source\repos\Chess\obj\Debug\net6.0\Chess.genruntimeconfig.cache
+C:\Users\wjbee\source\repos\Chess\obj\Debug\net6.0\ref\Chess.dll
+C:\Users\wjbee\source\repos\Chess\obj\Debug\net6.0\Chess.csproj.ResolveComReference.cache
